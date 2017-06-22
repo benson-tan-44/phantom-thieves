@@ -14,6 +14,17 @@ const state = {
   desc: 'Need a palace infiltrated? We make sure that we do leave any traces behind and we will get you a full blue-print of all the areas including the hidden ones!',
   price: 500
   },
+  {id:2, name:'Treasure Stealing',
+  desc: 'Need a the treasure stolen from a palace? We make sure that we do not leave any traces and it usually takes three to five days.',
+  price: 1700
+  },
+  {id:3, name:'Send Calling Card',
+  desc: "Want to declare that someone's treasure is going to be stolen? We will send them a calling card with your message of choice or we can create one for you for free. ",
+  price: 1000
+  },
+
+
+
   ]
 }
 
